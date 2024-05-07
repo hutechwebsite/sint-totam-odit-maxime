@@ -1,18 +1,78 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@hutechwebsite/sint-totam-odit-maxime",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "duongvi123",
   "license": "MIT",
+  "dependencies": {
+    "@hutechwebsite/ab-quibusdam-pariatur-beatae": "^1.0.0",
+    "@hutechwebsite/alias-rerum-dicta-ad": "^1.0.0",
+    "@hutechwebsite/autem-delectus-sint-libero": "^1.0.0",
+    "@hutechwebsite/beatae-animi-non-optio": "^1.0.0",
+    "@hutechwebsite/cupiditate-sint-nam-perspiciatis": "^1.0.0",
+    "@hutechwebsite/debitis-magnam-eos-mollitia": "^1.0.0",
+    "@hutechwebsite/dignissimos-nesciunt-tempore-omnis": "^1.0.0",
+    "@hutechwebsite/doloremque-magnam-quos-officiis": "^1.0.0",
+    "@hutechwebsite/eos-laborum-quasi-consequatur": "^1.0.0",
+    "@hutechwebsite/fugit-sunt-perspiciatis-assumenda": "^1.0.0",
+    "@hutechwebsite/labore-deserunt-doloremque-voluptatum": "^1.0.0",
+    "@hutechwebsite/odio-odio-quisquam-nisi": "^1.0.0",
+    "@hutechwebsite/odit-nostrum-perferendis-enim": "^1.0.0",
+    "@hutechwebsite/porro-velit-nam-alias": "^1.0.0",
+    "@hutechwebsite/possimus-architecto-vitae-enim": "^1.0.0",
+    "@hutechwebsite/quaerat-consectetur-deleniti-commodi": "^1.0.0",
+    "@hutechwebsite/quo-est-iure-quam": "^1.0.0",
+    "@hutechwebsite/recusandae-ut-velit-impedit": "^1.0.0",
+    "@hutechwebsite/sequi-mollitia-aliquam-blanditiis": "^1.0.0",
+    "@hutechwebsite/soluta-eius-nesciunt-a": "^1.0.0",
+    "@hutechwebsite/suscipit-natus-veritatis-minima": "^1.0.0",
+    "@hutechwebsite/veniam-corporis-architecto-earum": "^1.0.0",
+    "@hutechwebsite/voluptate-illum-voluptatem-molestiae": "^1.0.0",
+    "@hutechwebsite/voluptates-illum-cupiditate-quos": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
+  },
+  "keywords": [
+    "break",
+    "trimLeft",
+    "spinner",
+    "String.prototype.matchAll",
+    "autoprefixer",
+    "starter",
+    "testing",
+    "dom-testing-library",
+    "child",
+    "estree",
+    "BigUint64Array",
+    "Underscore",
+    "wget",
+    "tap",
+    "256",
+    "concat",
+    "flatten",
+    "mkdirp",
+    "Symbol.toStringTag",
+    "typeof",
+    "YAML",
+    "@@toStringTag",
+    "ECMAScript 2016",
+    "stdlib",
+    "fullwidth",
+    "generics",
+    "xdg-open",
+    "ES7",
+    "preserve-symlinks",
+    "opener"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/hutechwebsite/sint-totam-odit-maxime.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/hutechwebsite/sint-totam-odit-maxime/#readme",
+  "bugs": {
+    "url": "https://github.com/hutechwebsite/sint-totam-odit-maxime/issues"
   }
 }
